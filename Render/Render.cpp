@@ -4,7 +4,7 @@
 
 namespace SharpEngine
 {
-    Graphic_api::Graphic_api(api){
-        
-    }
+    Graphic_api(Api api){
+
+    };
 }

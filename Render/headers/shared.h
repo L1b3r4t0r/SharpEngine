@@ -7,6 +7,8 @@
 #endif
 #include <string>
 #include <regex>
+#include "../../vendor/v8/include/v8.h"
+using namespace v8;
 using namespace std;
 
 namespace SharpEngine
@@ -18,6 +20,6 @@ namespace SharpEngine
     class Graphic_api
     {
     public:
-        RENDER_API Graphic_api(api);
+        Graphic_api(Api api);
     };
 }
