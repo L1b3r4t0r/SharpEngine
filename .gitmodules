@@ -1,3 +1,6 @@
 [submodule "vendor/v8"]
 	path = vendor/v8
 	url = https://github.com/v8/v8-git-mirror.git
+[submodule "vendor/crypto"]
+	path = vendor/crypto
+	url = https://github.com/openssl/openssl.git

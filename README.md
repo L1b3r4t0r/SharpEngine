@@ -34,7 +34,7 @@ Every game needs a "game.json" file example is as follows:
             "Publisher": "Example publisher",
             "Version": "1.0.0",
             "Permissions": {
-                "UseDX11": false
+            "UseDX11": false
             }
         }
     }
