@@ -1,0 +1,22 @@
+## Mug Foundation Open Format License
+###v1.0 2015-06-22
+
+
+The Mug Foundation Open Format License (MFOFL)
+
+Copyright (c) {Year} {Copyright Holder(s)}
+{Author contact info}
+
+Permission is hereby granted, free of charge, to any person using this file format(s) in any way and associated documentation files, to use in the file format(s) without restriction, including without limitation the following rights:
+Re-distribute the file format(s) and or its underlying technology.
+Publish, distribute, sublicense, and/or sell Software using the file format(s) or its underlying technology under this license.
+Furnished to do so, subject to the following conditions:
+You are not authorized to sell the file format(s) or its underlying technology directly, except with express written permission from the original authors.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE FILE FORMAT OR THE USE OR OTHER DEALINGS IN THE FILE FORMAT.
+FURTHERMORE, THERE IS NO WARRANTY OF THE FILE FORMAT(S) UNDER THIS LICENSE TO BE FAIL SAFE AND OR FIT FOR A SPECIFIC PURPOSE(S).
+THE FILE FORMAT(S) PROTECTED BY THE LICENSE MAY USE STRONG CRYPTOGRAPHY ALGORITHMS AND THEREFORE MAY NOT BE USED IN SPECIFIC COUNTRIES (CONSULT YOUR COUNTRY LAW BEFORE EMBEDDING THIS FORMAT(S) IN YOUR SOFTWARE).
+THE AUTHORS IN NO OCCASION SHALL BE LIABLE FOR JURIDICAL PROBLEMS THAT MAY ARRISE IN DECURRENCE OF THE USAGE OF THE FILE FORMATS OR ASSOCIATED SOFTWARE UNDER THIS LICENSE.
+The above copyright notice shall be included in every Software that uses the files format(s) under this license.
+
+
+##### Based off the MIT license.
