@@ -27,18 +27,16 @@ int main()
 Every game needs a "game.json" file example is as follows:
 ```JSON
 {
-	{
-  "Metadata": {
-    "Name": "Testgame",
-    "Info": {
-      "Studio": "Example",
-      "Publisher": "Example publisher",
-      "Version": "1.0.0",
-      "Permissions": {
-        "UseDX11": false
-      }
+    "Metadata": {
+        "Name": "Testgame",
+        "Info": {
+            "Studio": "Example",
+            "Publisher": "Example publisher",
+            "Version": "1.0.0",
+            "Permissions": {
+                "UseDX11": false
+            }
+        }
     }
-  }
-}
 }
 ```
