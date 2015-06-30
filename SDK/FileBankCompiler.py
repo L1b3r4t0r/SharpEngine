@@ -7,4 +7,8 @@ import binascii
 import binhex
 import json
 import argparse
-import zipfile
+
+# Argument parsing
+
+arg = argparse.ArgumentParser()
+arg.add_argument('file')

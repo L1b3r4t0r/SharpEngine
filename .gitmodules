@@ -4,3 +4,9 @@
 [submodule "vendor/crypto"]
 	path = vendor/crypto
 	url = https://github.com/openssl/openssl.git
+[submodule "vendor/shapdx"]
+	path = vendor/shapdx
+	url = https://github.com/sharpdx/SharpDX.git
+[submodule "vendor/luanet"]
+	path = vendor/luanet
+	url = https://github.com/xanathar/moonsharp.git

@@ -1,0 +1,27 @@
+{
+  "schema": "engine.core.table.using_schema[game.schemas.tables.characters]",
+  "entry": {
+    "weapons": [
+      "M16",
+      "M1911",
+      "M60",
+      "GRENADES"
+    ],
+    "Params": {
+      "name": "USA_JOE",
+      "display_n": "Joe bro",
+      "desc":"Joe is a Vietnam veteran a classical \"Murican\"",
+      "rec_needs": ["game.construction.USA_VET_MEETING"],
+      "health": 1000,
+      "ishero": true,
+      "abilities": "USA/GENERIC/HERO/JOE",
+      "ai": "USA/HERO",
+      "ai_p": [10, 100, 1000, 0, -1, 0]
+    },
+    "modifiers": [
+      "game.code.SET_AMMO(\"M1911\", -1)"
+    ],
+    "model": "USA/HEROES%{'joe'}",
+    "atach_map": "COMON/HUMAN"
+  }
+}
